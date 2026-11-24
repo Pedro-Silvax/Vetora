@@ -243,21 +243,6 @@ export default function HistoricoScreen({ onNavigate }) {
           </View>
         </View>
 
-        {/* Info Callout: Como ler estes registros */}
-        <View style={styles.howToReadBox}>
-          <View style={styles.infoIconWrap}>
-            <InfoCircleIcon size={17} color={COLOR_TEXT_PRIMARY} />
-          </View>
-          <View style={styles.infoTextWrap}>
-            <Text style={styles.infoTitle}>Como ler estes registros</Text>
-            <Text style={styles.infoDescription}>
-              A data é a que consta no histórico da conta. O período e a
-              conclusão dos aluguéis não foram informados; por isso, estes
-              registros não são apresentados como concluídos.
-            </Text>
-          </View>
-        </View>
-
         {/* Bottom CTA Card: Um novo projeto em vista? */}
         <View style={styles.newProjectCard}>
           <Text style={styles.cardTitle}>Um novo projeto em vista?</Text>

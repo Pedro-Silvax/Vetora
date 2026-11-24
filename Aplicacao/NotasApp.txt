@@ -1,0 +1,8 @@
+- Na pagina Histórico - Retira box "Como ler estes registros" - Feito
+- Na pagina Os seus alugueis - quando alterna para em curso e para agendados, não esta sendo aplicado o objetivo do filtro
+- Na pagina Os seus alugueis - Retirar box "Confirme a data de devolução" - Feito
+- Criar pagina de ver informações das ferramentas agendadas
+- Verificar texto de todas as pagians
+- Na pagina Contactar-nos - Retira a box "A sua conta" - Feito
+- Retirar Place holders com nome Pedro Silva e colocar apenas "Introduza seu nome"
+- Na pagina de configurações - Os Filtros de Perfil e contato entre os outros não estão funcionando, não esta filtrando.

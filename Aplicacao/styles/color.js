@@ -1,4 +1,4 @@
-// Paleta de cores oficial Vetora (extraída diretamente dos mockups mobile)
+// Paleta de cores oficial Vetora
 
 export const COLOR_BG_MAIN = '#FFF1E3';
 export const COLOR_BG_SECONDARY = '#F9E8DA';

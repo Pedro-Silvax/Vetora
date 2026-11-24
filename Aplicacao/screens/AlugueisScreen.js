@@ -162,20 +162,6 @@ export default function AlugueisScreen({ onNavigate }) {
           </Text>
         </View>
 
-        {/* Info Callout: Confirme a data de devolução */}
-        <View style={styles.confirmCalloutBox}>
-          <View style={styles.infoIconWrap}>
-            <InfoCircleIcon size={17} color={COLOR_TEXT_PRIMARY} />
-          </View>
-          <View style={styles.infoTextWrap}>
-            <Text style={styles.infoTitle}>Confirme a data de devolução</Text>
-            <Text style={styles.infoDescription}>
-              A devolução da furadeira consta como 25/10/2025 até 10:00. A data
-              é mantida conforme o registro, sem contagem de tempo restante.
-            </Text>
-          </View>
-        </View>
-
         {/* Card: Agendados */}
         <View style={styles.card}>
           <Text style={styles.cardTitle}>Agendados</Text>

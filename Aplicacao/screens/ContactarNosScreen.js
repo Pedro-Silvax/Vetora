@@ -149,28 +149,6 @@ export default function ContactarNosScreen({ onNavigate }) {
           </TouchableOpacity>
         </View>
 
-        {/* Card 2: A sua conta */}
-        <View style={styles.card}>
-          <Text style={styles.cardTitle}>A sua conta</Text>
-
-          <View style={styles.accountRow}>
-            <View style={styles.avatarCircle}>
-              <Text style={styles.avatarText}>PS</Text>
-            </View>
-            <View style={styles.accountTextCol}>
-              <Text style={styles.accountNameText}>Pedro Silva</Text>
-              <Text style={styles.accountSubText}>
-                Contacto a preencher no formulário
-              </Text>
-            </View>
-          </View>
-
-          <Text style={styles.accountContextParagraph}>
-            Para uma dúvida sobre o aluguel em curso, pode selecionar a
-            Furadeira elétrica como contexto da mensagem.
-          </Text>
-        </View>
-
         {/* Callout Card: Conte-nos o que precisa. */}
         <View style={styles.tipsCalloutCard}>
           <Text style={styles.cardTitle}>Conte-nos o que precisa.</Text>
